@@ -89,6 +89,7 @@ public class FtcRobotControllerActivity extends Activity {
 
   protected UpdateUI.Callback callback;
   protected Context context;
+  public static Context mContext;
   private Utility utility;
   protected ImageButton buttonMenu;
 
@@ -168,7 +169,7 @@ public class FtcRobotControllerActivity extends Activity {
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
-
+    this.mContext = this;
     receivedUsbAttachmentNotifications = new ConcurrentLinkedQueue<UsbDevice>();
     eventLoop = null;
 
