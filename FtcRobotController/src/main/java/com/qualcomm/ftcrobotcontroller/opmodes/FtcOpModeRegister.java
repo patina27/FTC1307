@@ -70,7 +70,7 @@ public class FtcOpModeRegister implements OpModeRegister {
     manager.register ("oneangle",oneang.class);
     manager.register ("turn",TURN.class);
     manager.register ("autosqu",autosqu.class);
-    manager.register ("AndroidSensorTester", AndroidSensorTester.class);
+    //manager.register ("AndroidSensorTester", AndroidSensorTester.class);
 
     /*
      * Uncomment any of the following lines if you want to register an op mode.
