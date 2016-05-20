@@ -1,10 +1,8 @@
 package com.qualcomm.ftcrobotcontroller.opmodes;
 
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
-import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.Servo;
-import com.qualcomm.robotcore.util.Range;
 
 public class autored extends LinearOpMode {
 
@@ -46,38 +44,19 @@ public class autored extends LinearOpMode {
 			handr.setPosition(0.6);
 		}
 		motorRight.setPower(0.0);
-		motorLeft.setPower(1);
+		motorLeft.setPower(0.5);
 		motorRightt.setPower(0.0);
-		motorLeftt.setPower(1);
-		for (int i = 1; i <= 10; ++i) {
-			sleep(230);
-			tail.setPosition(1);
-			handl.setPosition(0.3);
-			handr.setPosition(0.6);
-		}
-		motorRight.setPower(1);
-		motorLeft.setPower(1);
-		motorRightt.setPower(1);
-		motorLeftt.setPower(1);
+		motorLeftt.setPower(0.5);
 		for (int i = 1; i <= 10; ++i) {
 			sleep(200);
 			tail.setPosition(1);
 			handl.setPosition(0.3);
 			handr.setPosition(0.6);
 		}
-		tail.setPosition(1);
 		motorRight.setPower(0);
 		motorLeft.setPower(0);
 		motorRightt.setPower(0);
 		motorLeftt.setPower(0);
-		sleep(2000);
-		tail.setPosition(0);
-		motorRight.setPower(0);
-		motorLeft.setPower(0);
-		motorRightt.setPower(0);
-		motorLeftt.setPower(0);
-		sleep(2000);
-		tail.setPosition(1);
 	}
 	public void runOpMode() throws InterruptedException{
 		initialize();
