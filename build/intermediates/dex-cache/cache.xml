@@ -2,46 +2,46 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\patin\Documents\GitHub\ftc_app\FtcRobotController\build\intermediates\exploded-aar\RobotCore-release\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="0666d81ab6701ba68f81b170cbdb78ba434eb00b">
-        <dex dex="C:\Users\patin\Documents\GitHub\ftc_app\FtcRobotController\build\intermediates\pre-dexed\debug\classes-9dcd1f6400384f26c7d971fea49a59d9ff20bc33.jar" />
-    </item>
-    <item
-        jar="C:\Users\patin\Documents\GitHub\ftc_app\FtcRobotController\build\intermediates\exploded-aar\FtcCommon-release\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e19ebc3f612058d1ce56c27e0867f609eb73edfa">
-        <dex dex="C:\Users\patin\Documents\GitHub\ftc_app\FtcRobotController\build\intermediates\pre-dexed\debug\classes-72ce7f16e21c07802e78928868ffee63e2c3caa6.jar" />
-    </item>
-    <item
-        jar="C:\Users\patin\Documents\GitHub\ftc_app\FtcRobotController\build\intermediates\exploded-aar\Analytics-release\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
-        <dex dex="C:\Users\patin\Documents\GitHub\ftc_app\FtcRobotController\build\intermediates\pre-dexed\debug\classes-5b75075464862de6c4150cf93d506dfa99a92787.jar" />
-    </item>
-    <item
-        jar="C:\Users\patin\Documents\GitHub\ftc_app\FtcRobotController\build\intermediates\exploded-aar\ModernRobotics-release\jars\classes.jar"
+        jar="C:\Users\patin\Documents\GitHub\FTC1307\FtcRobotController\build\intermediates\exploded-aar\ModernRobotics-release\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="01999c87afe3d10ffa06f3efa66f39e61e6aba0c">
-        <dex dex="C:\Users\patin\Documents\GitHub\ftc_app\FtcRobotController\build\intermediates\pre-dexed\debug\classes-df64eb55910f920865954a8ff32f272040d76b78.jar" />
+        <dex dex="C:\Users\patin\Documents\GitHub\FTC1307\FtcRobotController\build\intermediates\pre-dexed\debug\classes-5d2384082150ccf246e5f91114cfd7ea25aba969.jar" />
     </item>
     <item
-        jar="C:\Users\patin\Documents\GitHub\ftc_app\FtcRobotController\build\intermediates\exploded-aar\WirelessP2p-release\jars\classes.jar"
+        jar="C:\Users\patin\Documents\GitHub\FTC1307\FtcRobotController\build\intermediates\exploded-aar\RobotCore-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0666d81ab6701ba68f81b170cbdb78ba434eb00b">
+        <dex dex="C:\Users\patin\Documents\GitHub\FTC1307\FtcRobotController\build\intermediates\pre-dexed\debug\classes-dfd9b141df1a2b56a995ff701bcfacb97288c9ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\patin\Documents\GitHub\FTC1307\FtcRobotController\build\intermediates\exploded-aar\WirelessP2p-release\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
-        <dex dex="C:\Users\patin\Documents\GitHub\ftc_app\FtcRobotController\build\intermediates\pre-dexed\debug\classes-30777ce55643eddc21d79d25cc94f95cef5f29d0.jar" />
+        <dex dex="C:\Users\patin\Documents\GitHub\FTC1307\FtcRobotController\build\intermediates\pre-dexed\debug\classes-52575c4c191f794f60ce0306d2bb81e2baf9c3a3.jar" />
     </item>
     <item
-        jar="C:\Users\patin\Documents\GitHub\ftc_app\FtcRobotController\build\intermediates\exploded-aar\Hardware-release\jars\classes.jar"
+        jar="C:\Users\patin\Documents\GitHub\FTC1307\FtcRobotController\build\intermediates\exploded-aar\Hardware-release\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="5b3fe4efe8fad907294d5332bf26afe87764694f">
-        <dex dex="C:\Users\patin\Documents\GitHub\ftc_app\FtcRobotController\build\intermediates\pre-dexed\debug\classes-4e6b8faae79d0b68e1cdcd10081e589e938e548b.jar" />
+        <dex dex="C:\Users\patin\Documents\GitHub\FTC1307\FtcRobotController\build\intermediates\pre-dexed\debug\classes-6d933cab45e9af5cd4ca66e3fbbe5ec8d12fc5a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\patin\Documents\GitHub\FTC1307\FtcRobotController\build\intermediates\exploded-aar\FtcCommon-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e19ebc3f612058d1ce56c27e0867f609eb73edfa">
+        <dex dex="C:\Users\patin\Documents\GitHub\FTC1307\FtcRobotController\build\intermediates\pre-dexed\debug\classes-b743af32d193b1366d8df54ce334ca1ffd4b2970.jar" />
+    </item>
+    <item
+        jar="C:\Users\patin\Documents\GitHub\FTC1307\FtcRobotController\build\intermediates\exploded-aar\Analytics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="C:\Users\patin\Documents\GitHub\FTC1307\FtcRobotController\build\intermediates\pre-dexed\debug\classes-103d22f9f95448ecac840fcedb23f23d94099d4b.jar" />
     </item>
 
 </items>
